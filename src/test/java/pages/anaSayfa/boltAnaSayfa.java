@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 import static org.junit.Assert.assertTrue;
 import static utilities.ReusableMethods.bekle;
-// locate'ler
+
 public class boltAnaSayfa {
     public boltAnaSayfa () {
      PageFactory.initElements(Driver.getDriver(),this);
