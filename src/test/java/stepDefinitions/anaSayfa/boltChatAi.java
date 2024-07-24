@@ -9,7 +9,7 @@ import pages.anaSayfa.boltAnaSayfa;
 
 public class boltChatAi {
 
-    // kodlarimizi yaziyoruz
+
 
     ReusableMethods reusableMethods = new ReusableMethods();
     boltAnaSayfa boltAnaSayfa= new boltAnaSayfa();

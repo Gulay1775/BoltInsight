@@ -15,22 +15,6 @@ import org.junit.runner.RunWith;
 
     )
     public class runner {
-    /*
-        Runner class'i bos bir class'dir
-        bu class'da asil isi
-        Class'da kullandigimiz 2 notasyon yapar
 
-        dryRun = true secildiginde
-        Runner istenen feature/scenarioyu calistirmaya degil
-        eksik adimları bulmaya odaklanir
-        eger eksik adim yoksa
-        test PASSED der
-        ama bu testin calisip tum adimlarin gectigini gostermez
-        SADECE eksik adim olmadigini gosteri
-        EGER eksik adim bulma amacimiz yoksa
-
-        testlerimizi normal olarak calistirmak istiyorsak
-        dryRun = false secilmelidir
-         */
 }
 
